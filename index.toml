@@ -11,11 +11,6 @@ hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
 
 [[files]]
-file = "mods/advanced-netherite.pw.toml"
-hash = "d66ff1b8cf8b69fa9a8bf29e1b4f36a7a63f34ecc665d90916c1d09b39464013"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "de82b1dbf0023f4aae1db1fa69eda866a30f0afa57e16832d1ba8c504804d3a6"
 metafile = true
@@ -473,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "64254c688cb5b7e22ef17a129f9b7469899e14a322580e2a7988f4e5b75397f2"
-metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "ed77ef0ba487dea1aa253926993b0a4b5bd03a4997d7ab42ea0ac7246040a03e"
 metafile = true
 
 [[files]]
