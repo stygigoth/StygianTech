@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "better-nether.pw.toml"
+hash = "e910120d4051f3af470b8329ddee7fd1bc77e7b54014d1b8ab52f7cd2414cf8e"
+metafile = true
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "1d6e719de46234db1c564e58e4e047ded9c3fadce9f9c2141fe7ee9f1847068f"
 metafile = true
@@ -152,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/mcjtylib.pw.toml"
-hash = "1eb10738bc8c473a5212a86918941548424a4b10ee563d6b2cbe95bad6107aa3"
+hash = "edd5d4fc5b1a1cb153d0fa9c4b0c3c2a92366a9071402d9a9f58e84eebffec44"
 metafile = true
 
 [[files]]
 file = "mods/mekanism.pw.toml"
-hash = "22ef61953f3dbf520cc89eac5c6ab9a046cecd46254f37b04e80ed01e9e8a6fe"
+hash = "d5398c3eabe6d44bc7b98d0ad6ca930aa53736567ccd2773d4d9efe28a8099fd"
 metafile = true
 
 [[files]]
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-base.pw.toml"
-hash = "44e35060d764d847704deb2b1301c169b798c7c19eef49997516a48acc3d7fd2"
+hash = "c79a31ab51998f7ecb2ef8f0c3397fe9eb4d079e1649d1850af3d8d7d531f673"
 metafile = true
 
 [[files]]
@@ -256,11 +261,21 @@ hash = "ea246ad0580b48133dfacf549f53c0cbcb3577f5e838f7374e685963594427f8"
 metafile = true
 
 [[files]]
+file = "mods/xnet-gases.pw.toml"
+hash = "7ababc223fcf768c37b1c39061729942d6d7c3fea4b31890efd88d91a0067106"
+metafile = true
+
+[[files]]
 file = "mods/xnet.pw.toml"
-hash = "b1fe70ebc903927c01525aaf2b5ef905c02e2c509eb9112b1f85e6a44b54d147"
+hash = "9076fa1a4115ccfb27bdc7cc5190c6c3e86b8b6e57d683e07b1e7a200fa95d98"
 metafile = true
 
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "1aff3be39eccf3b042e8279b38c457b48d350e32eee8e4cce9d11455d636c34d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-nether.pw.toml"
+hash = "8e7f8cbff84a57f5a762ea3aea81b12f7aab5f103ce275e67b68278feeb06a10"
 metafile = true

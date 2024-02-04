@@ -3,11 +3,11 @@ filename = "xnet-1.20-6.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/iu1jkWqa/versions/v7egKLKS/xnet-1.20-6.0.2.jar"
 hash-format = "sha1"
-hash = "b7da5815815cfa0d1090a7436f61c2207496c107"
+hash = "b7cb8e99d8c97e4a17267169ff06300e9549cf09"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "iu1jkWqa"
-version = "v7egKLKS"
+[update.curseforge]
+file-id = 4747693
+project-id = 260912
