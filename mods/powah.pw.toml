@@ -3,11 +3,11 @@ filename = "Powah-5.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/5r9RUzX9/Powah-5.0.4.jar"
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/2jdpacF3/Powah-5.0.4.jar"
 hash-format = "sha1"
-hash = "19967179fa8f4852971ef30d44099d0792bf1bdc"
+hash = "b546a467e8d1f4da9c18af44263d5be5f3f2a062"
 
 [update]
 [update.modrinth]
 mod-id = "KZO4S4DO"
-version = "5r9RUzX9"
+version = "2jdpacF3"
