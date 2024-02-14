@@ -241,6 +241,11 @@ hash = "d93b370935b00d2460bc6a29d1e04af19606962524e5e9dae5eb2fc232f3711c"
 metafile = true
 
 [[files]]
+file = "mods/the-outer-end.pw.toml"
+hash = "2bc6ea25cc0e058669ec721be8a028c37d4da3dae93f56228f7dae1f0c0e3ae5"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "3319f9d8476289fa84b2de8aac7987937a932f54f7b3ba89c5527fbfa25668d4"
 metafile = true
